@@ -1,7 +1,7 @@
 # swivl-test-api
 
 1. installation:
-- `git clone swivl_test_api`
+- `git clone https://github.com/ilia-yats/swivl-test-api.git swivl_test_api`
 - `cd swivl_test_api`
 - `composer install`
 - `mysql -u root`
